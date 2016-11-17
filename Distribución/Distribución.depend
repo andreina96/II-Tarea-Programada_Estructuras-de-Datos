@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1449198802 source:c:\users\casa\desktop\distribución\distribucion.cpp
+	"distribucion.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	<sstream>
+
+1449199352 c:\users\casa\desktop\distribución\distribucion.h
+
+1449194383 source:c:\users\casa\desktop\distribución\main.cpp
+	"distribucion.h"
+	<iostream>
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1449193971 source:c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\ii tarea programada\código\reinas\reinas.cpp
+	"reinas.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	<sstream>
+
+1449194354 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\ii tarea programada\código\reinas\reinas.h
+	"lista.h"
+
+1449194330 source:c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\ii tarea programada\código\reinas\main.cpp
+	"reinas.h"
+
+1449094859 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\ii tarea programada\código\modelos\diccionario\lista.h
+	<iostream>
+	"cajita.h"
+
+1448492882 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\ii tarea programada\código\modelos\diccionario\cajita.h
+

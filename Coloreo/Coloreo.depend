@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1449188494 source:c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\ii tarea programada\código\coloreo\coloreo.cpp
+	"coloreo.h"
+	"matrizAdya.cpp"
+	"Lista de listas.cpp"
+	"conjuntos.cpp"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	<sstream>
+	<ctime>
+
+1449187964 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\ii tarea programada\código\coloreo\coloreo.h
+	"Lista de listas.h"
+
+1448809996 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\ii tarea programada\código\modelos\conjunto de conjuntos\lista de listas.h
+	"conjuntos.h"
+
+1448667294 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\ii tarea programada\código\modelos\conjunto de conjuntos\conjuntos.h
+	"elementos.h"
+
+1448813459 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\ii tarea programada\código\modelos\conjunto de conjuntos\elementos.h
+	<iostream>
+
+1448038699 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\ii tarea programada\código\modelos\grafo no dirigido\matrizadya.h
+
+1448038699 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\ii tarea programada\código\modelos\grafo no dirigido\matrizadya.cpp
+	"matrizAdya.h"
+
+1448810819 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\ii tarea programada\código\modelos\conjunto de conjuntos\lista de listas.cpp
+	<iostream>
+	"Lista de listas.h"
+
+1448813446 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\ii tarea programada\código\modelos\conjunto de conjuntos\conjuntos.cpp
+	"conjuntos.h"
+	<iostream>
+
+1449188021 source:c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\ii tarea programada\código\coloreo\main.cpp
+	"coloreo.h"
+

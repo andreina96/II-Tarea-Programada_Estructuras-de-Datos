@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1448821477 source:c:\users\casa\desktop\mochila\asignacion.cpp
+	"Asignacion.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<sys/time.h>
+
+1448821232 c:\users\casa\desktop\mochila\asignacion.h
+
+1449092934 source:c:\users\casa\desktop\asignacion\main.cpp
+	<iostream>
+	"Asignacion.h"
+
+1449200125 c:\users\casa\desktop\asignacion\asignacion.h
+
+1449201191 source:c:\users\casa\desktop\asignacion\asignacion.cpp
+	"Asignacion.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<sys/time.h>
+
